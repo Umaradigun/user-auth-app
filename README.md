@@ -7,4 +7,4 @@ This project provides user authentication and organisation management functional
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/your-repo/user-auth-app.git
+   git clone https://github.com/your-repo/user-auth-app.git ```
